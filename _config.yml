@@ -1,8 +1,8 @@
 markdown: redcarpet
 permalink: /:year/:month-:day-:title.html
 destination: _site
-name: Linmo    #将会显示在左上角
-myname: Linmo  #你的名字，显示在页脚和文章开始
+name: 霖秣    #将会显示在左上角
+myname: 霖秣  #你的名字，显示在页脚和文章开始
 email: ztt45@qq.com #邮箱 
 github: linmo05   #github账号，用于构建github链接
 project: linmo05 #github上的仓库名
