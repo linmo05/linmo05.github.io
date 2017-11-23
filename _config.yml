@@ -8,5 +8,5 @@ github: linmo05   #github账号，用于构建github链接
 project: linmo05 #github上的仓库名
 paginate: 20   #每页文章个数
 paginate_path: "/blog/page:num/" #此项不可更改
-myurl: https://linmo05.github.io/ #此url指向你的首页
+myurl: https://linmo05.github.io #此url指向你的首页
 baseurl: "" #如果是项目pages，填写为"/<项目名>"
